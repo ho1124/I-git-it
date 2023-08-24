@@ -1,0 +1,20 @@
+프로젝트
+
+이클립스에서 파일 넣는법
+1.git init
+2.git add 넣고 싶은 파일명
+3.git commit -m ""
+4.커밋 확인 git log
+5.add 확인 git status
+6.git branch -M main(이미있는 것은 브렌치명 다르게 브랜치명 중복 불가능)
+7.git remote add origin https://github.com/ho1124/i-git-it.git
+8.git push -u origin main
+
+프로젝트 안에 있는 코드 다운 받는법
+1.github에서 프로젝트에 들어간후 code클릭
+2.https 복사
+3.git clone 깃협주소 폴더이름 써주기
+4.다운후 cd 폴더이름으로 들어가기
+5.code
+
+
